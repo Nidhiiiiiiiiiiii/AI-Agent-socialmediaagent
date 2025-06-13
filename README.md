@@ -31,7 +31,7 @@ It leverages concepts from **LangGraph**, OpenAI's `function_tool`, and async ag
 
 1. **Clone this repo**
 ```bash
-git clone https://github.com/your-username/social-content-agent.git
+git clone https://github.com/Nidhiiiiiiiiiiii/social-content-agent.git
 cd social-content-agent
 pip install -r requirements.txt
 Add your .env

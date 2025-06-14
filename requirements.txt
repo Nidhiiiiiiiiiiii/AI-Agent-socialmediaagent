@@ -1,5 +1,6 @@
-openai
-openai-agents
-youtube_transcript_api
+langchain
+langchain-community
+langchain-ollama
+ollama
 python-dotenv
-streamlit
+youtube-transcript-api

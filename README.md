@@ -27,7 +27,7 @@ It leverages concepts from **LangGraph**, OpenAI's `function_tool`, and async ag
 - WebSearchTool (optional external reasoning tool)
 
 ---
-# ANOTHER USING OLLAMA
+# FREE VERSION TO CREATE AI AGENT USING OLLAMA
 
 # 🎯 Agentic Social Media Post Generator using YouTube Videos & Local LLM (Ollama)
 

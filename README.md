@@ -68,16 +68,14 @@ venv\Scripts\activate   # Windows
 
 # 3. Install dependencies
 pip install -r requirements.txt
-🧠 Run Ollama (in separate terminal)
+# 4. 🧠 Run Ollama (in separate terminal)
 ollama run mistral
-You can also use other supported models:
-ollama run llama3
-ollama run gemma
-▶️ Usage
-Update the YouTube video ID inside main.py:
-python
-video_id = "QIKTjNZK7sU"
-Then run the agent:
+#You can also use other supported models:
+#ollama run llama3
+#ollama run gemma
+#▶️ Usage
+#Update the YouTube video ID inside main.py:video_id = "QIKTjNZK7sU"
+# 5. Then run the agent:
 python main.py
 ```
 # You will see:

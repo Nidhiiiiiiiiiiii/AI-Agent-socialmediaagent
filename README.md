@@ -12,7 +12,7 @@ It leverages concepts from **LangGraph**, OpenAI's `function_tool`, and async ag
 - ✅ Wraps content generation as a `@function_tool`
 - ✅ Uses GPT-4o to produce engaging social media content
 - ✅ Integrates tools, roles, and agent output types (MCP-style)
-- ✅ Fully async, traceable, and extensible for real-world usage![Screenshot 2025-06-14 140419](https://github.com/user-attachments/assets/e715299e-9e0f-4bee-8da2-2e18e0cfb373)
+- ✅ Fully async, traceable, and extensible for real-world usage!
 
 
 ---
@@ -46,7 +46,8 @@ No OpenAI API needed. Runs fully offline using local LLMs like `mistral`, `llama
 - ✅ Clean and modular LangChain pipeline
 
 ---
-
+[Screenshot 2025-06-14 140419](https://github.com/user-attachments/assets/e715299e-9e0f-4bee-8da2-2e18e0cfb373)
+---
 ## 📦 Requirements
 
 - Python 3.10+
@@ -56,7 +57,6 @@ No OpenAI API needed. Runs fully offline using local LLMs like `mistral`, `llama
 ---
 
 ## 🛠 Installation
-
 ```bash
 # 1. Clone the repo
 git clone https://github.com/your-username/agentic-social-media-ai.git
@@ -79,7 +79,7 @@ python
 video_id = "QIKTjNZK7sU"
 Then run the agent:
 python main.py
-
+```
 # You will see:
 >> 
 

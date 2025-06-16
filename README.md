@@ -95,4 +95,4 @@ npm install
 npm run dev
 ```
 
-![App Screenshot](./Screenshot 2025-06-16 145317.png)
+![App Screenshot](./screenshot.png)

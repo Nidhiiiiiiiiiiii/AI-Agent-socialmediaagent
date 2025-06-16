@@ -10,7 +10,7 @@ Transform YouTube videos into engaging social media content tailored for platfor
 - 🎯 Choose a target platform: LinkedIn or Instagram
 - ✨ Auto-generate a post using AI
 - 📋 One-click copy
-- ⚡ Built with FastAPI (backend) and React + Tailwind CSS (frontend)
+- ⚡ Built with FastAPI (backend) and React + CSS (frontend)
 
 ---
 
@@ -95,4 +95,4 @@ npm install
 npm run dev
 ```
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](./Screenshot 2025-06-16 145317.png)

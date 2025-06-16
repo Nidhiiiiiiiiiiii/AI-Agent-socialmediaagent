@@ -1,0 +1,15 @@
+# langchain
+# langchain-community
+# langchain-ollama
+# ollama
+# python-dotenv
+# youtube-transcript-api
+
+
+
+fastapi
+uvicorn
+python-dotenv
+youtube-transcript-api
+langchain
+langchain_ollama
